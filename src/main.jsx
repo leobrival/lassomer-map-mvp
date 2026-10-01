@@ -29,7 +29,7 @@ const corals = [
     observer: 'Maya R.',
     status: 'validé',
     observations: [
-      { date: '2026-09-12', health: 'Bon état général', note: 'Croissance visible sur les extrémités. Eau claire, faible houle.', photo: 'https://www.lassomer.fr/wp-content/uploads/2024/05/Logo-assomer-PNG.png' },
+      { date: '2026-09-12', health: 'Bon état général', note: 'Croissance visible sur les extrémités. Eau claire, faible houle.', photo: 'https://www.lassomer.fr/wp-content/uploads/2024/09/2024-06-29-ACROPORA-Preparation-Sciences-Dives-Secteur-Sainte-Anne-Marin-sites-Ti-Mur_Boucaniers_credits_©Gipsy_Tramoni_LAsso-Mer_SportDiver_20240629_111723-768x1024.jpg' },
       { date: '2026-07-02', health: 'Stress léger', note: 'Léger blanchissement localisé à recontrôler au prochain passage.', photo: 'https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=900&q=80' }
     ]
   },
