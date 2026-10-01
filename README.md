@@ -32,3 +32,19 @@ npm run build
 - Ajouter un statut de modération : `pending`, `validated`, `rejected`
 - Exposer les données via REST API WordPress
 - Remplacer les données mockées par un fetch vers l’API
+
+
+## Direction artistique reprise depuis le site existant
+
+Audit rapide des pages publiques L’Asso-Mer : accueil, offre de prestation, calendrier, actions, recrutements, contact, sensibilisation et pages projets listées dans les sitemaps.
+
+Tokens intégrés dans le MVP :
+
+- Couleur primaire : `#005E79`
+- Accent jaune : `#FFD800` / `#F2BF27`
+- Cyan : `#00A6CC` / `#00C3C6`
+- Fond clair : `#F1F9FF`
+- Typographies : `Viga` pour les titres, `Voces` pour les textes
+- UI : grands espaces blancs, boutons pilule, cartes arrondies, header proche du site existant
+
+Contenus reflétés : pôles d’action, Sciences Dive, calendrier d’événements, formulaire et footer association.
